@@ -1,0 +1,137 @@
+body{
+    margin: 2vw;
+    color: white;
+}
+
+h2{
+    font-size: 10vh;
+}
+
+h3{
+    font-size: 6.3vh;
+}
+
+p{
+    font-size: 4.3vh;
+    margin: 1vw;
+}
+
+.MainHead{
+    display: inline-block;
+    float: left;
+}
+
+.Reference{
+    width: 60vw;
+    text-align: center;
+    font-size: 5vh;
+    display: inline-block;
+}
+
+.Reference img{
+    width: 15vw;
+    height: auto;
+    margin-left: 3vw;
+}
+
+.MainList li{
+    font-size: 4vh;
+}
+
+.MainList h3{
+    display: contents;
+}
+
+.MainSector{
+    font-size: 4vh;
+}
+
+.MainIcon{
+    border-radius: 50%;
+    width: 10vw;
+    height: auto;
+    display: inline-block;
+}
+
+.MainProfile{
+    display: inline-block;
+    width: 40vw;
+}
+
+.MainProfile .p1{
+    font-size: 3vh;
+}
+
+.MainProfile .p2{
+    font-size: 5vh;
+}
+
+.MainBio{
+    display: inline-block;
+    width: 40vw;
+    border: solid;
+    background-color: rgba(255, 255, 255, 0.2);
+    color: white;
+    border-radius: 1vw;
+    border-color: orange;
+    padding: 1vw;
+}
+
+.MainContact ul{
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+.MainContact li{
+    float: left;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    padding: 2vh;
+    font-size: 4vh;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: inline-block;
+    
+    margin-left: 7vw;
+}
+
+.MainContact a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+.MainContact img{
+    width: 2vw;
+    height: auto;
+}
+
+.MainProyect{
+    border: solid;
+    border-radius: 1vw;
+    border-color: orange;
+    padding: 1vw;
+    background-color: rgba(255, 255, 255, 0.2);
+    color: white;
+}
+
+.MainProyect p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.MainProyect h3{
+    display: inline-block;
+    width: 40vw;
+}
+
+.MainProyect div{
+    display: inline-block;
+    width: 40vw;
+}
+
+.MainProyect img{
+    display: inline-block;
+    width: 60vmin;
+    height: auto;
+    margin-left: 20vw;
+}
